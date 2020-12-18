@@ -37,7 +37,10 @@ class Search extends SearchDelegate {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Center(
-            child: Text('not less when three letters'),
+            child: Text(
+              'not less when three letters',
+              style: Theme.of(context).textTheme.headline2,
+            ),
           ),
         ],
       );
@@ -52,7 +55,10 @@ class Search extends SearchDelegate {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Center(
-                child: Text('No results found'),
+                child: Text(
+                  'No results found',
+                  style: Theme.of(context).textTheme.headline2,
+                ),
               ),
             ],
           )
