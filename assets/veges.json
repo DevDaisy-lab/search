@@ -1,0 +1,74 @@
+{
+  "veges": [
+    {
+      "name": "Apple",
+      "id": 1,
+      "about": "Apples are a good source of fiber.",
+      "calories": "52 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/apple.png?alt=media&token=7f504f56-1ec2-4306-82d1-ce0140f57086"
+    },
+    {
+      "name": "Pear",
+      "id": 2,
+      "about": "Pears are rich in essential antioxidants, plant compounds, and dietary fiber.",
+      "calories": "57 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/pear.png?alt=media&token=c880b5f7-6aad-4d1f-a206-13e1061e8cad"
+    },
+    {
+      "name": "Orange",
+      "id": 3,
+      "about": "Oranges are a type of low calorie, highly nutritious citrus fruit.",
+      "calories": "47 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/orange.png?alt=media&token=7e29329e-2383-4d66-a96e-4cbb41453781"
+    },
+    {
+      "name": "Banana",
+      "id": 4,
+      "about": "Bananas are among the world's most popular fruits.",
+      "calories": "89 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/banana.png?alt=media&token=4dc252c6-5214-4fca-85e0-9c1af305330c"
+    },
+    {
+      "name": "Lemon",
+      "id": 5,
+      "about": "Lemons are a rich source of vitamin C, a powerful antioxidant.",
+      "calories": "29 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/lemon.png?alt=media&token=60ce7ab1-9cf2-44be-83f7-c2945ce5f630"
+    },
+    {
+      "name": "Pineapple",
+      "id": 6,
+      "about": "Pineapple is a large tropical fruit with a spiky, tough skin and sweet insides.",
+      "calories": "50 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/pineapple.png?alt=media&token=393eb736-e6b5-4119-a3ce-c5541d2874b4"
+    },
+    {
+      "name": "Tomato",
+      "id": 7,
+      "about": "Tomatoes are fruits that are considered vegetables by nutritionists.",
+      "calories": "26 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/tomato.png?alt=media&token=1f390f74-788a-4d28-921a-af36679e2b85"
+    },
+    {
+      "name": "Potato",
+      "id": 8,
+      "about": "Potatoes are types of starchy root vegetables called tubers.",
+      "calories": "77 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/potato.png?alt=media&token=de669e0e-4954-4f8c-9080-2b555b899379"
+    },
+    {
+      "name": "Broccoli",
+      "id": 9,
+      "about": "Broccoli is a green vegetable that vaguely resembles a miniature tree.",
+      "calories": "34 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/broccoli.png?alt=media&token=2db618f9-83e1-4146-b71b-73f6590e7047"
+    },
+    {
+      "name": "Eggplant",
+      "id": 10,
+      "about": "Eggplant is low in fat, cholesterol and sodium, and contains nutrients invaluable for good health.",
+      "calories": "25 calories per 100 g.",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/herbs-d02ea.appspot.com/o/eggplant.png?alt=media&token=362cc85f-1440-468b-9259-5e23d214aaa1"
+    }
+  ]
+}
