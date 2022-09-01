@@ -1,4 +1,5 @@
-# Not Updated Yet
+**Not Updated Yet**
+
 # search
 
 ![](https://github.com/Laura555-p/search/blob/master/assets/images/pic1.png)
